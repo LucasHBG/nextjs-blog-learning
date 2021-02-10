@@ -1,1 +1,3 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+## List of features in this project:
+- **React.js'** features from version *17.0.1*.
+- **Next.js’** pre-rendering feature.
